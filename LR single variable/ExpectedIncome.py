@@ -3,7 +3,7 @@ import numpy as np
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('income.csv')
+df=pd.read_csv('LR single variable/income.csv')
 print(df.head(5))
 
 # x=[1,2,3,4,5,6]
